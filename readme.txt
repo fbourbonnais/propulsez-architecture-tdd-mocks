@@ -4,8 +4,8 @@ Code de la démonstration de la présentation
     Présentée par: Félix-Antoine Bourbonnais
 
 
-Ceci est le code obtenu tel quel avant (branche master-base) 
-et suite (branche master-final) à la démonstration.
+Ceci est le code obtenu tel quel avant (branche base)
+et suite (branche master) à la démonstration.
 
 Plusieurs améliorations seraient encore à apporter en suivant 
 la même technique démontrée. Si vous voulez, amusez-vous à faire 
@@ -14,7 +14,7 @@ progresser le code et poursuivre le réusinage.
 
 Pour voir la présentation:
 
-    http://developpementagile.com/agile-tour-montreal-2012-tdd-mocks-bourbonnais
+    http://developpementagile.com/architecture-mocks-tdd
 
 
 Tous droits réservés:
