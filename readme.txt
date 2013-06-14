@@ -14,7 +14,7 @@ progresser le code et poursuivre le réusinage.
 
 Pour voir la présentation:
 
-    http://developpementagile.com/architecture-mocks-tdd
+    http://developpementagile.com/posts/2013/june/propulsez-votre-architectures-grace-au-tdd-et-aux-mocks-(agile-quebec-2013)/
 
 
 Tous droits réservés:
